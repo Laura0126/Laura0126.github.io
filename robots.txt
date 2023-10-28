@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Allow: /about/
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/ 
+Disallow: /resume/
+
+Sitemap: https://laura0126.github.io/sitemap.xml
